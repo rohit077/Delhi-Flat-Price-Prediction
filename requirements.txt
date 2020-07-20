@@ -21,6 +21,5 @@ wincertstore==0.2
 matplotlib>=1.4.3
 pandas>=0.19
 gunicorn
-SIGTERM
 sigterm
 streamlit
